@@ -1,0 +1,7 @@
+github.com/aclindsa/ofxgo v0.1.0 h1:pyIqAguePSmlnh3vv+45/luMqASk6D0F/J5P3mfxsn8=
+github.com/aclindsa/ofxgo v0.1.0/go.mod h1:4wzVpzAGpwKjA1bK3HiwQTqrvI+bccK/X12QEqjYxok=
+github.com/aclindsa/xml v0.0.0-20190701095008-453d2c6090c2 h1:ICeGSGrc6fd81VtQ3nZ2h7GEOKxWYwRxjW0v0d/mgu4=
+github.com/aclindsa/xml v0.0.0-20190701095008-453d2c6090c2/go.mod h1:GjqOUT8xlg5+T19lFv6yAGNrtMKkZ839Gt4e16mBXlY=
+golang.org/x/text v0.3.2 h1:tW2bmiBqwgJj/UpqtC8EpXEZVYOwU0yG4iWbprSVAcs=
+golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
